@@ -26,9 +26,9 @@ Perguntas a serem respondidas com a utilização do dashboard 📊
 - [ ] Qual é a taxa de conversão de clientes novos para clientes recorrentes?
 - [ ] O lucro bruto está crescendo ao longo do tempo?
 
-### Bibliotecas Utilizadas 📚
+### Ferramentas Utilizadas ⚙
 - Power BI
 - Chat GPT
 
 ### Objetivos de Aprendizado 🎯
-O objetivo desta análise é desenvolver habilidades em análise de dados no Power BI, interpretando informações estratégicas sobre vendas, clientes, lojas e rentabilidade. Essa experiência aprimora a capacidade de transformar dados brutos em insights acionáveis, otimizando a gestão e tomada de decisão no setor de supermercados. 
+O objetivo desta análise é continuar treinandos as habilidades em análise de dados no Power BI, interpretando informações estratégicas sobre vendas, clientes, lojas e rentabilidade. Essa experiência aprimora a capacidade de transformar dados brutos em insights acionáveis, otimizando a gestão e tomada de decisão no setor de supermercados. 
