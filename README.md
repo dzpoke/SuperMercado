@@ -6,9 +6,7 @@
 ### Descrição do Projeto
 Esse dataset contém informações sobre vendas de produtos de supermercado, incluindo detalhes sobre produtos, lojas, clientes e uma tabela de tempo. 
 
-![image](https://st4.depositphotos.com/7839720/30937/i/600/depositphotos_309370790-stock-photo-young-man-with-shopping-cart.jpg)
-
-## PARTE 1
+![image](https://png.pngtree.com/background/20250107/original/pngtree-supermarket-grocery-store-aisle-with-empty-shopping-cart-business-concept-picture-image_15628113.jpg)
 
 ### Objetivos da Análise ✍
 
@@ -27,3 +25,10 @@ Perguntas a serem respondidas com a utilização do dashboard 📊
 - [ ] Qual é a margem de lucro média por venda?
 - [ ] Qual é a taxa de conversão de clientes novos para clientes recorrentes?
 - [ ] O lucro bruto está crescendo ao longo do tempo?
+
+### Bibliotecas Utilizadas 📚
+- Power BI
+- Chat GPT
+
+### Objetivos de Aprendizado 🎯
+O objetivo desta análise é desenvolver habilidades em análise de dados no Power BI, interpretando informações estratégicas sobre vendas, clientes, lojas e rentabilidade. Essa experiência aprimora a capacidade de transformar dados brutos em insights acionáveis, otimizando a gestão e tomada de decisão no setor de supermercados. 
