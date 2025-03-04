@@ -47,15 +47,15 @@ Perguntas a serem respondidas com a utilização do dashboard 📊
 - [ ] As vendas variam significativamente entre diferentes regiões?
 - [x] Quais tipos de clientes (VIP, Regular, Novo) compram mais?
   - O tipo de cliente que mais compra é o Regular. 
-- [ ] Clientes que compram em lojas físicas gastam mais do que clientes que compram online (se houver essa distinção)?
+- [x] Clientes que compram em lojas físicas gastam mais do que clientes que compram online (se houver essa distinção)?
   - Não existe no dataset informações refentes a compras em lojas online.
 - [x] Qual é o ticket médio por cliente?
   - É R$ 6,48
-- [ ] Qual é a taxa de conversão de clientes novos para clientes recorrentes?
+- [x] Qual é a taxa de conversão de clientes novos para clientes recorrentes?
 - A conversão é:
    - Clientes Regulares: 40%
    - Clientes Novos: 20%
-- [ ] O Receita bruto está crescendo ao longo do tempo?
+- [x] O Receita bruto está crescendo ao longo do tempo?
   - Não! A receita veem em queda livre desde Agosto de 2023
 
 ### Ferramentas Utilizadas ⚙
