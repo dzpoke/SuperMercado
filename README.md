@@ -45,7 +45,6 @@ Perguntas a serem respondidas com a utilização do dashboard 📊
   - Mercado Econônico R$ 6,38
 - [ ] Há lojas com baixa performance que precisam de uma estratégia de otimização?
 - [ ] As vendas variam significativamente entre diferentes regiões?
-  - 
 - [x] Quais tipos de clientes (VIP, Regular, Novo) compram mais?
   - O tipo de cliente que mais compra é o Regular. 
 - [ ] Clientes que compram em lojas físicas gastam mais do que clientes que compram online (se houver essa distinção)?
