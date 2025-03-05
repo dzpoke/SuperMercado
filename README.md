@@ -8,6 +8,7 @@ Esse dataset contém informações sobre vendas de produtos de supermercado, inc
 
 ![image](https://png.pngtree.com/background/20250107/original/pngtree-supermarket-grocery-store-aisle-with-empty-shopping-cart-business-concept-picture-image_15628113.jpg)
 
+Link do Dashboard: [Power BI](https://app.powerbi.com/view?r=eyJrIjoiYzQ2MGQ3MTItYjI0Yi00NzM0LWJhOWQtMGMwNzE0ODdkMTI1IiwidCI6IjE5NzcwNzAzLTBhYmQtNDg5ZC05ZWU3LWI3NzZlYzJkYmViZCJ9)
 ### Objetivos da Análise ✍
 
 Perguntas a serem respondidas com a utilização do dashboard 📊
