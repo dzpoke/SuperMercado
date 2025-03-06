@@ -3,12 +3,16 @@
 
 ### Fonte: [Chat GPT](https://chatgpt.com/share/67c48d09-62c4-800d-9322-f54af327f6e5) 🔗
 
+Link do Dashboard: [Power BI](https://app.powerbi.com/view?r=eyJrIjoiYzQ2MGQ3MTItYjI0Yi00NzM0LWJhOWQtMGMwNzE0ODdkMTI1IiwidCI6IjE5NzcwNzAzLTBhYmQtNDg5ZC05ZWU3LWI3NzZlYzJkYmViZCJ9)
+
+### Objetivos de Aprendizado 🎯
+O objetivo desta análise é treinar utilização das funcções **ALL** e **RANK** no DAX além de continuar treinandos as habilidades em análise de dados no Power BI, interpretando informações estratégicas sobre vendas, clientes, lojas e rentabilidade 
+
 ### Descrição do Projeto
 Esse dataset contém informações sobre vendas de produtos de supermercado, incluindo detalhes sobre produtos, lojas, clientes e uma tabela de tempo. 
 
 ![image](https://png.pngtree.com/background/20250107/original/pngtree-supermarket-grocery-store-aisle-with-empty-shopping-cart-business-concept-picture-image_15628113.jpg)
 
-Link do Dashboard: [Power BI](https://app.powerbi.com/view?r=eyJrIjoiYzQ2MGQ3MTItYjI0Yi00NzM0LWJhOWQtMGMwNzE0ODdkMTI1IiwidCI6IjE5NzcwNzAzLTBhYmQtNDg5ZC05ZWU3LWI3NzZlYzJkYmViZCJ9)
 ### Objetivos da Análise ✍
 
 Perguntas a serem respondidas com a utilização do dashboard 📊
@@ -63,5 +67,4 @@ Perguntas a serem respondidas com a utilização do dashboard 📊
 - Power BI
 - Chat GPT
 
-### Objetivos de Aprendizado 🎯
-O objetivo desta análise é continuar treinandos as habilidades em análise de dados no Power BI, interpretando informações estratégicas sobre vendas, clientes, lojas e rentabilidade. Essa experiência aprimora a capacidade de transformar dados brutos em insights acionáveis, otimizando a gestão e tomada de decisão no setor de supermercados. 
+
