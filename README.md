@@ -64,7 +64,8 @@ Perguntas a serem respondidas com a utilização do dashboard 📊
   - Não! A receita veem em queda livre desde Agosto de 2023
 
 ### Ferramentas Utilizadas ⚙
-- Power BI
+- Power Query
+- DAX
 - Chat GPT
 
 
