@@ -6,7 +6,7 @@
 Link do Dashboard: [Power BI](https://app.powerbi.com/view?r=eyJrIjoiYzQ2MGQ3MTItYjI0Yi00NzM0LWJhOWQtMGMwNzE0ODdkMTI1IiwidCI6IjE5NzcwNzAzLTBhYmQtNDg5ZC05ZWU3LWI3NzZlYzJkYmViZCJ9)
 
 ### Objetivos de Aprendizado 🎯
-O objetivo desta análise é treinar utilização das funcções **ALL** e **RANK** no DAX além de continuar treinandos as habilidades em análise de dados no Power BI, interpretando informações estratégicas sobre vendas, clientes, lojas e rentabilidade 
+O objetivo desta análise é treinar utilização das funções **ALL** e **RANK** no DAX além de continuar treinandos as habilidades em análise de dados no Power BI, interpretando informações estratégicas sobre vendas, clientes, lojas e rentabilidade 
 
 ### Descrição do Projeto
 Esse dataset contém informações sobre vendas de produtos de supermercado, incluindo detalhes sobre produtos, lojas, clientes e uma tabela de tempo. 
@@ -64,7 +64,19 @@ Perguntas a serem respondidas com a utilização do dashboard 📊
   - Não! A receita veem em queda livre desde Agosto de 2023
 
 ### Ferramentas Utilizadas ⚙
-- Power BI
+- Power Query
+- DAX
 - Chat GPT
+
+### Projetando a visualização das informações(Plano de Fundo)
+
+#### Wireframe inicial
+![TV - 1](https://github.com/user-attachments/assets/7baebba9-0330-4034-af49-9130227cb9ee)
+
+#### Wireframe versão final
+![TV - 2](https://github.com/user-attachments/assets/1e07654f-3213-4f93-8b9d-e9f7a6f835a8)
+
+#### Versão aplicada no dashboard
+![image](https://github.com/user-attachments/assets/4ad6bf0b-e91e-48d2-a5e8-1bf89e648a0c)
 
 
